@@ -2,7 +2,7 @@
 
 Overcooked 2 oyunun türkçe yamasıdır. Oyunun tüm içeriğini Türkçe diline çevirir. İngilizce dili değiştirilmiştir. Çalışması için oyunun ingilizce dilinde olması gereklidir.
 
-Oyunun herbir versiyonunda dil dosyasının yapısıyla oynandığı için yalnızca uygun sürümde çalışır.
+#### :warning: Oyunun her yeni versiyonunda dil dosyasının yapısıyla oynandığı için yalnızca uygun sürümde çalışır.
 
 Kurulum;
 1) Yamanın size uygun sürümünü indirin.
