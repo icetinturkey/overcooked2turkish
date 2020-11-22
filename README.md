@@ -11,6 +11,6 @@ Kurulum;
 
 3) Oyunun kurulu olduğu klasörde Overcooked 2\Overcooked2_Data içine atın.
 
-3a) Geri döndürebilmek veya hata durumdan kurtarabilmek için yedek almayı unutmayın.
+4) :warning:Geri döndürebilmek veya hata durumdan kurtarabilmek için yedek almayı unutmayın.
 
-4) Oyunun dilini ingilizceye ayarlayın.
+5) Oyunun dilini ingilizceye ayarlayın.
